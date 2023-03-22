@@ -9,18 +9,18 @@ tasks for the day in a clear and visual manner. And then I can delete tasks as I
 
 Click on the "Get Started" button as shown below.
 
-![screenshot 1](./Develop/public/assets/images/notes1.JPG)
+![screenshot 1](/public/assets/images/notes1.JPG)
 
 You can start typing the title and text for your note. Both are required to be able to save a note.
 Click the floppy disk icon in the upper right of the page to save the note.
 
-![screenshot 2](./Develop/public/assets/images/notes2.JPG)
+![screenshot 2](/public/assets/images/notes2.JPG)
 
 Add however many notes you need.
 
-![screenshot 3](./Develop/public/assets/images/notes3.JPG)
+![screenshot 3](/public/assets/images/notes3.JPG)
 
 Delete notes by clicking the trashcan icon next to the note in the list.
 
-![screenshot 4](./Develop/public/assets/images/notes4.JPG)
+![screenshot 4](/public/assets/images/notes4.JPG)
 
